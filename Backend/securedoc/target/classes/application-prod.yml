@@ -1,0 +1,17 @@
+#Database
+POSTGRESQL_USERNAME: user
+POSTGRESQL_PASSWORD: letmein
+POSTGRESQL_HOST: 10.164.176.189
+POSTGRESQL_PORT: 5432
+POSTGRESQL_DATABASE: docdatabase
+
+#Server
+CONTAINER_PORT: 8085
+ACTIVE_PROFILE: prod
+
+#Email Config
+EMAIL_HOST: smtp.gmail.com
+EMAIL_PORT: 587
+EMAIL_ID: ravisankar231299@gmail.com
+EMAIL_PASSWORD: egcz pkdy oxiz jsxi
+VERIFY_EMAIL_HOST: http://localhost:8085
